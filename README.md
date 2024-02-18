@@ -1,3 +1,4 @@
-![image](https://github.com/JLBenYa/Docusaurus01/assets/139522250/bd51391c-3dae-43de-95c7-07c131bcec0b)
+![image](https://github.com/JLBenYa/Docusaurus01/assets/139522250/02841c03-f91d-4230-960b-b489efabc029)
+
 
 Probando el Docusaurus - Test
